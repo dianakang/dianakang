@@ -28,7 +28,9 @@
 
 <p align="left">Blabird is an NYU startup project that helps users learn to speak any language more naturally by transforming their voice into the target language while preserving their unique tone and style. As Founder and CTO, I led the end-to-end technical development of the platform, leveraging Azure AI services such as Speech-to-Text and Custom Voice APIs to generate dynamic, personalized dialogues. I also built a scalable ETL pipeline on Azure to process and analyze user speech data, enabling adaptive learning experiences with high performance and low latency. </p>
 
-- [Demo](https://github.com/dianakang/blabird-vocal-bloom)
+- [Demo](https://blabird.vercel.app)
+- [Github](https://github.com/dianakang/blabird-vocal-bloom)
+
 
 ###
 
@@ -36,7 +38,8 @@
 
 <p align="left">Homi is an AI-powered housing platform developed that streamlines the relocation process for students and young professionals by integrating verified listings, roommate matching, and furniture marketplaces. As Tech CEO, I led product development and strategy, building core features including calendar-integrated video calls, logistics coordination, and a personalized housing recommendation engine powered by machine learning and smart search algorithms. </p>
 
-- [Demo](https://github.com/dianakang/homi-platform)
+- [Demo](https://github.com/dianakang/homi-platform](https://homi-housing.vercel.app/)
+- [Github](https://github.com/dianakang/blabird-vocal-bloom)
 ###
 
 <h2 align="left">📫 Connect with me</h2>
