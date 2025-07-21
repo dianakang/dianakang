@@ -38,7 +38,7 @@
 
 <p align="left">Homi is an AI-powered housing platform developed that streamlines the relocation process for students and young professionals by integrating verified listings, roommate matching, and furniture marketplaces. As Tech CEO, I led product development and strategy, building core features including calendar-integrated video calls, logistics coordination, and a personalized housing recommendation engine powered by machine learning and smart search algorithms. </p>
 
-- [Demo](https://github.com/dianakang/homi-platform](https://homi-housing.vercel.app/)
+- [Demo](https://homi-housing.vercel.app/)
 - [Github](https://github.com/dianakang/blabird-vocal-bloom)
 ###
 
