@@ -24,6 +24,15 @@
 
 ###
 
+<h3 align="left">Partybuildr</h3>
+
+<p align="left">PartyBuilder is an AI-powered event planning platform designed to simplify social gatherings by orchestrating venues, schedules, budgets, and vendors in one intelligent workflow. As Product & Tech Lead, I drove end-to-end product strategy and development, architecting an AI agent system that integrates calendars, location data, weather, and budgeting tools to generate personalized party plans. I led the build of core features, including smart scheduling, vendor discovery, budget optimization, and real-time plan adjustments through an orchestration layer, enabling users to plan complex events with minimal manual effort. </p>
+
+- [Demo](https://buildr-event.vercel.app)
+- [Github](https://github.com/Teresamuhiu/PartyBuilder)
+
+###
+
 <h3 align="left">Blabird</h3>
 
 <p align="left">Blabird is an NYU startup project that helps users learn to speak any language more naturally by transforming their voice into the target language while preserving their unique tone and style. As Founder and CTO, I led the end-to-end technical development of the platform, leveraging Azure AI services such as Speech-to-Text and Custom Voice APIs to generate dynamic, personalized dialogues. I also built a scalable ETL pipeline on Azure to process and analyze user speech data, enabling adaptive learning experiences with high performance and low latency. </p>
