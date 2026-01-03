@@ -6,7 +6,7 @@
 
 <h2 align="left">🚀 About me</h2>
 
-<p align="left">I'm Diana Kang, a software engineer and technical founder with a passion for building impactful, AI-powered products. With a foundation in full-stack development, cloud architecture, and AI, I enjoy turning ideas into scalable, user-friendly applications. I thrive in fast-paced environments where I can drive product strategy and lead engineering efforts from concept to launch. As a builder and problem-solver, I’m inspired by opportunities that combine creativity with deep technical problem-solving.</p>
+<p align="left">I'm Diana Kang, a founding product engineer with a passion for building impactful, AI-powered products. With a foundation in full-stack development, cloud architecture, and AI, I enjoy turning ideas into scalable, user-friendly applications. I thrive in fast-paced environments where I can drive product strategy and lead engineering efforts from concept to launch. As a builder and problem-solver, I’m inspired by opportunities that combine creativity with deep technical problem-solving.</p>
 
 <p align="center">
   <img src="assets/image.png" width=800" />
