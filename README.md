@@ -1,4 +1,4 @@
-<h1 align="left">Diana Kang - Software Engineer</h1>
+<h1 align="left">Diana Kang - Product Engineer</h1>
 
 ###
 
