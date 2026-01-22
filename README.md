@@ -24,11 +24,11 @@
 
 ###
 
-<h3 align="left">Partybuildr</h3>
+<h3 align="left">VisionAIte</h3>
 
 <p align="left">PartyBuilder is an AI-powered event planning platform designed to simplify social gatherings by orchestrating venues, schedules, budgets, and vendors in one intelligent workflow. As Product & Tech Lead, I drove end-to-end product strategy and development, architecting an AI agent system that integrates calendars, location data, weather, and budgeting tools to generate personalized party plans. I led the build of core features, including smart scheduling, vendor discovery, budget optimization, and real-time plan adjustments through an orchestration layer, enabling users to plan complex events with minimal manual effort. </p>
 
-- [Demo](https://buildr-event.vercel.app)
+- [Demo](https://www.visionaite.com/)
 - [Github](https://github.com/Teresamuhiu/PartyBuilder)
 
 ###
