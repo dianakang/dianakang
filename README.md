@@ -18,39 +18,6 @@
 </a> </p>
 
 
-###
-
-<h2 align="left">🌟 Projects</h2>
-
-###
-
-<h3 align="left">VisionAIte</h3>
-
-<p align="left">VisionAIte is an AI-powered event planning platform designed to simplify social gatherings by orchestrating venues, schedules, budgets, and vendors in one intelligent workflow. As Product & Tech Lead, I drove end-to-end product strategy and development, architecting an AI agent system that integrates calendars, location data, weather, and budgeting tools to generate personalized party plans. I led the build of core features, including smart scheduling, vendor discovery, budget optimization, and real-time plan adjustments through an orchestration layer, enabling users to plan complex events with minimal manual effort. </p>
-
-- [Demo](https://www.visionaite.com/)
-- [Github](https://github.com/Teresamuhiu/PartyBuilder)
-
-###
-
-<h3 align="left">Blabird</h3>
-
-<p align="left">Blabird is an NYU startup project that helps users learn to speak any language more naturally by transforming their voice into the target language while preserving their unique tone and style. As Founder and CTO, I led the end-to-end technical development of the platform, leveraging Azure AI services such as Speech-to-Text and Custom Voice APIs to generate dynamic, personalized dialogues. I also built a scalable ETL pipeline on Azure to process and analyze user speech data, enabling adaptive learning experiences with high performance and low latency. </p>
-
-- [Demo](https://blabird.vercel.app)
-- [Github](https://github.com/dianakang/blabird-vocal-bloom)
-
-
-###
-
-<h3 align="left">Homi</h3>
-
-<p align="left">Homi is an AI-powered housing platform developed that streamlines the relocation process for students and young professionals by integrating verified listings, roommate matching, and furniture marketplaces. As Tech CEO, I led product development and strategy, building core features including calendar-integrated video calls, logistics coordination, and a personalized housing recommendation engine powered by machine learning and smart search algorithms. </p>
-
-- [Demo](https://homi-housing.vercel.app/)
-- [Github](https://github.com/dianakang/blabird-vocal-bloom)
-###
-
 <h2 align="left">📫 Connect with me</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/younjungkang/)
